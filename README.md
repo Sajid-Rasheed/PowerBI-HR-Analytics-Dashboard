@@ -30,7 +30,7 @@ This project presents a comprehensive **HR Analytics Dashboard** built using **P
 
 ## 📩 Get in Touch
 For feedback, collaboration, or inquiries:  
-📧 Email: sajidogagu02@gmail.com  
+📧 Email: sajidogahi02@gmail.com  
 💼 [LinkedIn Profile](https://www.linkedin.com/in/meetsajidrasheed)  
 
  
